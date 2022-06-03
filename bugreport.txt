@@ -1,0 +1,28 @@
+
+Bug ID -
+Tester -
+Date -
+Title -
+
+Bug Description
+URL -
+Summary -
+Screenshot -
+Platform -
+Browser -
+
+Administrative
+Assigned to -
+Assigned at -
+Priority -
+Severity -
+
+Notes
+Steps:
+1)
+2)
+3)
+...
+
+AR
+ER
